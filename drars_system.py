@@ -1458,13 +1458,12 @@ def render_login():
     with cols[1]:
         st.markdown(f"""
         <div style="text-align:center;margin-bottom:32px;">
-            <div style="display:flex;justify-content:center;margin-bottom:18px;">
-                <div style="width:72px;height:72px;background:{ACCENT};clip-path:polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);display:flex;align-items:center;justify-content:center;">
-                    <div style="width:32px;height:32px;background:{DARK_BG};clip-path:polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);"></div>
-                </div>
+            <div style="font-size:28px;font-weight:900;color:{TEXT_PRIMARY};text-transform:uppercase;letter-spacing:2px;">
+                DRAR<span style="color:{ACCENT}">S</span>
             </div>
-            <div style="font-size:28px;font-weight:900;color:{TEXT_PRIMARY};text-transform:uppercase;letter-spacing:2px;">DRAR<span style="color:{ACCENT}">S</span></div>
-            <div style="font-size:11px;color:{TEXT_MUTED};text-transform:uppercase;letter-spacing:1.5px;margin-top:6px;">Dual-Relationship Analysis & Recommendation System</div>
+            <div style="font-size:11px;color:{TEXT_MUTED};text-transform:uppercase;letter-spacing:1.5px;margin-top:6px;">
+                Dual-Relationship Analysis & Recommendation System
+            </div>
         </div>
         """, unsafe_allow_html=True)
         mode = st.session_state.auth_mode
