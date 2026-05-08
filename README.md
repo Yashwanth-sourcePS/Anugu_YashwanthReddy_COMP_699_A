@@ -1,135 +1,123 @@
-# Dual Relationship Analysis and Recommendation System
+# 👋 Hi, I'm Yashwanth Reddy Anugu
 
-## Developed By
-Yashwanth Reddy Anugu  
+🎓 Graduate Student in Computer Science at Rivier University, New Hampshire, with strong interest in Artificial Intelligence, Machine Learning, Computer Vision, Data Analytics, and Scalable Software Development.
 
-## File Name
-drars_system.py  
+💡 I enjoy building practical and intelligent software systems that combine AI, backend engineering, cloud technologies, real-time processing, and data-driven decision making. I am especially interested in solving real-world problems using Machine Learning, Computer Vision, Full Stack Development, and Cloud Infrastructure.
 
----
-
-## Project Overview
-This system is designed to help organizations understand how people are connected and form better teams using data instead of guesswork. The system studies two types of relationships at the same time, which are collaboration and similarity, and combines them to generate strong and balanced group recommendations. It provides clear results, visual outputs, and explanations so that users can easily understand why certain groups are formed. The system also supports multiple roles like Admin and Analyst, making it structured and easy to manage in real-world environments. :contentReference[oaicite:0]{index=0}  
+🚀 Currently working as a Teaching Assistant at Rivier University, where I support students in Java programming, Object-Oriented Programming, JavaFX, Data Structures, debugging, and algorithm development.
 
 ---
 
-## Problem Statement
-In many organizations, team formation is done manually and depends on limited knowledge. Important factors like past collaborations and skill similarity are often ignored, which leads to weak and unbalanced teams. Existing systems usually consider only one type of relationship and fail to give complete insights. There is also a lack of transparency in decision making, which makes it difficult to understand how teams are formed. This system solves these problems by using structured data analysis and clear logic to generate better recommendations. :contentReference[oaicite:1]{index=1}  
+# 🛠️ Technical Skills
+
+### 💻 Programming Languages
+Python, Java, SQL, C++, C, JavaScript (ES6+), HTML, CSS, PHP
+
+### ⚙️ Frameworks & Libraries
+React.js, Node.js, Express.js, Flask, Spring Boot, TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib
+
+### 🗄️ Databases
+MySQL, MongoDB, SQL, NoSQL
+
+### ☁️ Cloud & DevOps
+AWS, Docker, REST APIs, CI/CD, Microservices
+
+### 🧪 Testing & Development Tools
+JUnit, Mockito, Selenium, TestNG, Git, GitHub, Jupyter Notebook, Power BI
+
+### 📚 Core Concepts
+Data Structures, Algorithms, Object-Oriented Design, Distributed Systems, SDLC, Debugging, Problem Solving, Software Development
 
 ---
 
-## System Objectives
-- Analyze multiple relationships together instead of separately  
-- Generate compatibility scores based on defined rules  
-- Recommend strong and balanced groups  
-- Provide clear visual outputs and reports  
-- Maintain audit logs for transparency  
-- Support scenario-based analysis for better decision making  
+# 👨‍💻 Professional Experience
+
+## 🎓 Teaching Assistant | Rivier University
+📍 Nashua, New Hampshire  
+📅 Jan 2026 – Present
+
+- Assist students with Java programming, Object-Oriented Programming, JavaFX, Data Structures, and algorithm development.
+- Provide debugging guidance, assignment support, and one-on-one technical explanations during labs and office hours.
+- Help students strengthen problem-solving skills and software development fundamentals through practical coding support.
+- Collaborate with faculty members in grading assignments, conducting lab activities, and supporting course delivery.
 
 ---
 
-## Key Features
-- Admin can manage individuals, skills, and relationships  
-- Analyst can create scenarios and run analysis  
-- System calculates compatibility scores using weighted logic  
-- Generates recommended groups based on strong connections  
-- Provides reports in clear and understandable format  
-- Maintains audit logs for all system actions  
-- Supports multiple scenarios and comparisons  
+## 📊 Data Analyst Intern | Cognizant
+📍 India  
+📅 Dec 2023 – Apr 2024
+
+- Developed interactive Power BI dashboards to visualize business KPIs and improve data-driven decision making.
+- Built automated reporting workflows using Python, Pandas, NumPy, and SQL for analytics and preprocessing tasks.
+- Implemented Power Query transformations and DAX calculations for scalable reporting solutions.
+- Reduced manual reporting effort by automating data pipelines and improving operational efficiency.
+- Worked with cross-functional teams to troubleshoot reporting issues and improve data reliability across workflows.
 
 ---
 
-## System Modules
-### User Management
-Handles login, authentication, and role-based access control to ensure security  
+# 📌 Projects
 
-### Profile and Relationship Management
-Stores and manages individual data, skills, and relationship information  
+## 🚗 AI-Driven Driver Drowsiness Detection
+**Python, TensorFlow, OpenCV, Flask, Docker, AWS**
 
-### Scenario Management
-Allows users to create and manage different analysis scenarios  
-
-### Analysis Engine
-Processes relationship data and calculates compatibility scores  
-
-### Recommendation Module
-Generates group suggestions based on analysis results  
-
-### Reporting Module
-Creates reports, visualizations, and alerts for users  
-
-### System Support
-Handles audit logs, backups, and system monitoring  
+- Developed a real-time driver drowsiness detection system using CNN-based deep learning models.
+- Improved model performance and reduced false alert rates through preprocessing optimization and debugging techniques.
+- Built Flask REST APIs and deployed scalable microservices using Docker and AWS cloud services.
+- Integrated monitoring and cloud storage workflows for efficient real-time alert handling.
 
 ---
 
-## System Workflow
-1. User logs into the system  
-2. Admin manages individuals, skills, and relationships  
-3. Analyst creates analysis scenarios  
-4. System processes relationship data  
-5. Compatibility scores are calculated  
-6. Groups are generated based on scores  
-7. Results are displayed with reports and visualizations  
+## 📈 Cryptocurrency Market Analysis
+**Python, Pandas, NumPy, Matplotlib**
+
+- Analyzed Bitcoin and Ethereum datasets to identify market trends, volatility patterns, and statistical insights.
+- Built automated data preprocessing and analysis workflows for large-scale historical datasets.
+- Generated analytical reports and visualizations to support trend prediction and data-driven understanding.
+- Improved efficiency by automating repetitive analysis tasks using Python scripting.
 
 ---
 
-## Technologies Used
-- Python  
-- Object-Oriented Programming  
-- Data Structures for relationship handling  
-- File-based or database storage  
-- Basic visualization techniques  
+## 🏆 Sports Management System
+**Java Spring Boot, JUnit, Mockito, AWS, Docker, Git**
+
+- Developed backend REST APIs for managing teams, tournaments, and player information in a distributed environment.
+- Implemented unit testing and validation workflows using JUnit and Mockito with strong test coverage.
+- Containerized applications using Docker and deployed services on AWS cloud infrastructure.
+- Applied object-oriented design principles and debugging practices to improve maintainability and reliability.
 
 ---
 
-## Installation Steps
-1. Install Python on your system (version 3.8 or above recommended)  
-2. Download or copy the project folder to your local machine  
-3. Open terminal or command prompt in the project directory  
-4. Install required libraries if needed using pip install commands  
-5. Ensure all files are placed correctly in one folder  
-6. Run the system using the command  
-   python drars_system.py  
-7. Open the application interface and log in to start using the system  
+# 🌟 Areas of Interest
+
+🤖 Artificial Intelligence  
+📊 Data Analytics  
+🧠 Machine Learning  
+👁️ Computer Vision  
+☁️ Cloud Computing  
+🌐 Full Stack Development  
+⚡ Scalable Backend Systems  
+📈 Data Visualization  
 
 ---
 
-## System Requirements
-- Standard laptop or desktop  
-- Minimum 8 GB RAM recommended  
-- Python installed  
-- No need for paid tools or special hardware  
+# 📫 Connect With Me
+
+### 🔗 LinkedIn
+www.linkedin.com/in/yashwanth-reddy-1a8535249
+
+### 💻 GitHub
+github.com/YashwanthAnugu14
+
+### 📧 Email
+yanugu@rivier.edu
 
 ---
 
-## User Roles
-### Admin
-Responsible for managing users, profiles, skills, relationships, and system rules  
+# 🚀 Currently Exploring
 
-### Analyst
-Responsible for creating scenarios, running analysis, and viewing results  
-
----
-
-## Output and Reports
-- Compatibility scores for individuals  
-- Recommended groups based on analysis  
-- Visual diagrams of relationships  
-- Reports in structured format  
-- Alerts for weak or conflicting connections  
-
----
-
-## Testing
-The system includes unit testing for major components such as  
-- Individual data handling  
-- Relationship creation  
-- Score calculation  
-- Recommendation logic  
-- Audit logging  
-
----
-
-## Conclusion
-This system provides a simple and effective way to analyze relationships and generate meaningful recommendations. It improves decision making by using data instead of manual judgement. The system is easy to use, flexible, and can be extended further in the future for more advanced features and larger datasets. :contentReference[oaicite:2]{index=2}  
+- Advanced Machine Learning workflows
+- Cloud-native application deployment
+- AI-powered real-time systems
+- Distributed backend architectures
+- Scalable analytics platforms
+- Computer Vision applications
